@@ -235,7 +235,7 @@ Finally, to manage the growing application, each individual functionality of the
    └──────┬──────┘      └──────┬──────┘     └──────┬──────┘
           │                    │                    │
    ┌──────▼──────┐      ┌──────▼──────┐     ┌──────▼──────┐
-   │    DB / Cache        DB / Queue        Object Store  │
+   │  DB / Cache          DB / Queue         Object Store │
    └─────────────┘      └─────────────┘     └─────────────┘
 ```
 
