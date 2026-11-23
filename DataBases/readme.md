@@ -46,9 +46,8 @@ Joins are operations that merge multiple relational databases to perform a requi
 └──────────────┘        └──────────────────┘
 ```
 
-| | |
-|---|---|
-| ✅ **Advantages** | Joins make it easy to retrieve complex data from multiple relational databases; follows ACID properties which ensures data safety |
+|----------------------|----------------|
+| ✅ **Advantages**    | Joins make it easy to retrieve complex data from multiple relational databases; follows ACID properties which ensures data safety |
 | ❌ **Disadvantages** | Hard to scale |
 
 ---
