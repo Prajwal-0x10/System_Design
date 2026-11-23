@@ -46,8 +46,9 @@ Joins are operations that merge multiple relational databases to perform a requi
 └──────────────┘        └──────────────────┘
 ```
 
-|----------------------|----------------|
-| ✅ **Advantages**    | Joins make it easy to retrieve complex data from multiple relational databases; follows ACID properties which ensures data safety |
+| | |
+|---|---|
+| ✅ **Advantages** | Joins make it easy to retrieve complex data from multiple relational databases; follows ACID properties which ensures data safety |
 | ❌ **Disadvantages** | Hard to scale |
 
 ---
@@ -112,8 +113,9 @@ NoSQL databases follow **BASE** properties:
 | **Soft State**            | May be out of sync for some time |
 | **Eventually Consistent** | Becomes consistent over time     |
 
-|-----------------------|----------------------------|
-| ✅ **Advantages**    | Easy to scale               |
+| | |
+|---|---|
+| ✅ **Advantages** | Easy to scale |
 | ❌ **Disadvantages** | Hard to run complex queries |
 
 ---
